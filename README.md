@@ -20,16 +20,6 @@ N/A
 
 Open up the application and type a note with a title. You can delete a note by clicking on the trash icon. Also, you can view previous notes by clikcing on their title.
 
-## Credits
-
-Noah Manno
-
-## Contributing
-
-N/A
-
-
----
 
 ## Tests
 
