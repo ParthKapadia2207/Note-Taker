@@ -39,7 +39,8 @@ N/A
 ## Deployment 
 
 Github Repo: https://github.com/ParthKapadia2207/Note-Taker
+
 Deployed Application: https://note-taker-3-1xwo.onrender.com
 
 # Screenshot
-/Result.png
+![Note-Taker App](/Result.png "Output Screenshot")
